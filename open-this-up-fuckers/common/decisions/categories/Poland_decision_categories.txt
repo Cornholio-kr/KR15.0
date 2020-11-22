@@ -1,0 +1,19 @@
+POL_foreign_policy_decisions = {
+	icon = border_conflicts
+
+	allowed = {
+		original_tag = POL
+	}
+
+	visible = {
+		is_subject = no
+	}
+}
+
+POL_integration_decisions = {
+	icon = patriotic
+
+	allowed = {
+		original_tag = POL
+	}
+}

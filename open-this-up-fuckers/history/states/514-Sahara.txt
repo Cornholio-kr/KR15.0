@@ -1,0 +1,19 @@
+state = {
+	id = 514
+	name = "STATE_514"
+
+	history = {
+		owner = NFA
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		1958 8088 10731 12711 12849
+	}
+	manpower = 70245
+	state_category = wasteland
+	impassable = yes
+}
